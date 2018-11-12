@@ -1,0 +1,1760 @@
+{
+  "users": [
+    {
+      "id": 1285702680,
+      "id_str": "1285702680",
+      "name": "Steffen Zschaler",
+      "screen_name": "szschaler",
+      "location": "",
+      "description": "",
+      "url": "http://t.co/hTGrUmxGqw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/hTGrUmxGqw",
+              "expanded_url": "http://www.steffen-zschaler.de",
+              "display_url": "steffen-zschaler.de",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 213,
+      "friends_count": 213,
+      "listed_count": 8,
+      "created_at": "Thu Mar 21 11:16:50 +0000 2013",
+      "favourites_count": 137,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1799,
+      "lang": "en",
+      "status": {
+        "created_at": "Tue Oct 17 08:28:04 +0000 2017",
+        "id": 920204755120590800,
+        "id_str": "920204755120590848",
+        "text": "RT @GrayshottStager: Tickets are now available for our next production, 'QUARTET'.\n\nPlease visit... https://t.co/rf6kPohrGv",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "GrayshottStager",
+              "name": "Grayshott Stagers",
+              "id": 525316656,
+              "id_str": "525316656",
+              "indices": [
+                3,
+                19
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/rf6kPohrGv",
+              "expanded_url": "http://fb.me/HnFGF4xU",
+              "display_url": "fb.me/HnFGF4xU",
+              "indices": [
+                100,
+                123
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Mon Oct 16 10:12:15 +0000 2017",
+          "id": 919868583324409900,
+          "id_str": "919868583324409856",
+          "text": "Tickets are now available for our next production, 'QUARTET'.\n\nPlease visit... https://t.co/rf6kPohrGv",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/rf6kPohrGv",
+                "expanded_url": "http://fb.me/HnFGF4xU",
+                "display_url": "fb.me/HnFGF4xU",
+                "indices": [
+                  79,
+                  102
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1,
+          "favorite_count": 0,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3409193057/3f56addef7718db03f759f48f8d4fdd5_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3409193057/3f56addef7718db03f759f48f8d4fdd5_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 15178336,
+      "id_str": "15178336",
+      "name": "Massimo Tisi",
+      "screen_name": "massimotisi",
+      "location": "Nantes",
+      "description": "Researcher in computer science, assistant professor @atlanmod @inria @IMTAtlantique",
+      "url": "https://t.co/kNkYQNmKBl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/kNkYQNmKBl",
+              "expanded_url": "https://massimotisi.github.io",
+              "display_url": "massimotisi.github.io",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 142,
+      "friends_count": 212,
+      "listed_count": 3,
+      "created_at": "Fri Jun 20 09:53:18 +0000 2008",
+      "favourites_count": 15,
+      "utc_offset": 7200,
+      "time_zone": "Paris",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 27,
+      "lang": "en",
+      "status": {
+        "created_at": "Tue Jul 18 08:30:33 +0000 2017",
+        "id": 887228081676615700,
+        "id_str": "887228081676615680",
+        "text": "RT @thanoszolotas: The Projects Showcase event starts at 11:00 at Room Newton. Program here: https://t.co/A1fYaZ9CpS #STAF17 @staf2017conf",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "STAF17",
+              "indices": [
+                117,
+                124
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "thanoszolotas",
+              "name": "Thanos Zolotas",
+              "id": 66634735,
+              "id_str": "66634735",
+              "indices": [
+                3,
+                17
+              ]
+            },
+            {
+              "screen_name": "staf2017conf",
+              "name": "STAF 2017 Conference",
+              "id": 781118953078882300,
+              "id_str": "781118953078882304",
+              "indices": [
+                125,
+                138
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/A1fYaZ9CpS",
+              "expanded_url": "http://www.informatik.uni-marburg.de/staf2017/index.php/projects-showcases/",
+              "display_url": "informatik.uni-marburg.de/staf2017/index…",
+              "indices": [
+                93,
+                116
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Jul 18 08:02:10 +0000 2017",
+          "id": 887220940219846700,
+          "id_str": "887220940219846656",
+          "text": "The Projects Showcase event starts at 11:00 at Room Newton. Program here: https://t.co/A1fYaZ9CpS #STAF17 @staf2017conf",
+          "truncated": false,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "STAF17",
+                "indices": [
+                  98,
+                  105
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "staf2017conf",
+                "name": "STAF 2017 Conference",
+                "id": 781118953078882300,
+                "id_str": "781118953078882304",
+                "indices": [
+                  106,
+                  119
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/A1fYaZ9CpS",
+                "expanded_url": "http://www.informatik.uni-marburg.de/staf2017/index.php/projects-showcases/",
+                "display_url": "informatik.uni-marburg.de/staf2017/index…",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 10,
+          "favorite_count": 6,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F3F3F3",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/886170137476427776/wdKPlI7N_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/886170137476427776/wdKPlI7N_normal.jpg",
+      "profile_link_color": "167AC6",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 246994968,
+      "id_str": "246994968",
+      "name": "Robert Clarisó",
+      "screen_name": "robertclariso",
+      "location": "Barcelona",
+      "description": "Computer Scientist and Lecturer at Universitat Oberta de Catalunya (CS, IT, Software). Director del Máster Universitario de Ingeniería Informática de la UOC.",
+      "url": "http://t.co/XvoCqSUEfn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/XvoCqSUEfn",
+              "expanded_url": "http://www.uoc.edu/webs/rclariso",
+              "display_url": "uoc.edu/webs/rclariso",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 550,
+      "friends_count": 360,
+      "listed_count": 59,
+      "created_at": "Thu Feb 03 21:50:04 +0000 2011",
+      "favourites_count": 155,
+      "utc_offset": 7200,
+      "time_zone": "Madrid",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4089,
+      "lang": "ca",
+      "status": {
+        "created_at": "Wed Oct 18 13:33:33 +0000 2017",
+        "id": 920644017087565800,
+        "id_str": "920644017087565824",
+        "text": "RT @CompSciFact: Periodic table of software engineering\nhttps://t.co/nMzbR6a1Fj https://t.co/kvWADMhX2H",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CompSciFact",
+              "name": "Computer Science",
+              "id": 220145170,
+              "id_str": "220145170",
+              "indices": [
+                3,
+                15
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/nMzbR6a1Fj",
+              "expanded_url": "https://imgur.com/gallery/SWDy6",
+              "display_url": "imgur.com/gallery/SWDy6",
+              "indices": [
+                56,
+                79
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 920638183175573500,
+              "id_str": "920638183175573506",
+              "indices": [
+                80,
+                103
+              ],
+              "media_url": "http://pbs.twimg.com/media/DMbDjMLXUAI6zk0.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DMbDjMLXUAI6zk0.jpg",
+              "url": "https://t.co/kvWADMhX2H",
+              "display_url": "pic.twitter.com/kvWADMhX2H",
+              "expanded_url": "https://twitter.com/CompSciFact/status/920638185754984448/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 440,
+                  "h": 314,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 440,
+                  "h": 314,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 440,
+                  "h": 314,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 920638185754984400,
+              "source_status_id_str": "920638185754984448",
+              "source_user_id": 220145170,
+              "source_user_id_str": "220145170"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 920638183175573500,
+              "id_str": "920638183175573506",
+              "indices": [
+                80,
+                103
+              ],
+              "media_url": "http://pbs.twimg.com/media/DMbDjMLXUAI6zk0.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DMbDjMLXUAI6zk0.jpg",
+              "url": "https://t.co/kvWADMhX2H",
+              "display_url": "pic.twitter.com/kvWADMhX2H",
+              "expanded_url": "https://twitter.com/CompSciFact/status/920638185754984448/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 440,
+                  "h": 314,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 440,
+                  "h": 314,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 440,
+                  "h": 314,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 920638185754984400,
+              "source_status_id_str": "920638185754984448",
+              "source_user_id": 220145170,
+              "source_user_id_str": "220145170"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Wed Oct 18 13:10:22 +0000 2017",
+          "id": 920638185754984400,
+          "id_str": "920638185754984448",
+          "text": "Periodic table of software engineering\nhttps://t.co/nMzbR6a1Fj https://t.co/kvWADMhX2H",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/nMzbR6a1Fj",
+                "expanded_url": "https://imgur.com/gallery/SWDy6",
+                "display_url": "imgur.com/gallery/SWDy6",
+                "indices": [
+                  39,
+                  62
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 920638183175573500,
+                "id_str": "920638183175573506",
+                "indices": [
+                  63,
+                  86
+                ],
+                "media_url": "http://pbs.twimg.com/media/DMbDjMLXUAI6zk0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DMbDjMLXUAI6zk0.jpg",
+                "url": "https://t.co/kvWADMhX2H",
+                "display_url": "pic.twitter.com/kvWADMhX2H",
+                "expanded_url": "https://twitter.com/CompSciFact/status/920638185754984448/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 440,
+                    "h": 314,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 440,
+                    "h": 314,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 440,
+                    "h": 314,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 920638183175573500,
+                "id_str": "920638183175573506",
+                "indices": [
+                  63,
+                  86
+                ],
+                "media_url": "http://pbs.twimg.com/media/DMbDjMLXUAI6zk0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DMbDjMLXUAI6zk0.jpg",
+                "url": "https://t.co/kvWADMhX2H",
+                "display_url": "pic.twitter.com/kvWADMhX2H",
+                "expanded_url": "https://twitter.com/CompSciFact/status/920638185754984448/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 440,
+                    "h": 314,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 440,
+                    "h": 314,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 440,
+                    "h": 314,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 33,
+          "favorite_count": 98,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 33,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1690938209/Image_Robert_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1690938209/Image_Robert_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/246994968/1401259469",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 28821072,
+      "id_str": "28821072",
+      "name": "Juan M. Vara",
+      "screen_name": "jmvara",
+      "location": "Madrid, Spain",
+      "description": "Associate Professor at URJC. Interested in MDE, Service Engineering and SW Quality. Soccer-crazy and fan of taking it easy.",
+      "url": "https://t.co/olsZAoMTg6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/olsZAoMTg6",
+              "expanded_url": "http://kybele.es",
+              "display_url": "kybele.es",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 445,
+      "friends_count": 433,
+      "listed_count": 37,
+      "created_at": "Sat Apr 04 16:23:13 +0000 2009",
+      "favourites_count": 296,
+      "utc_offset": 7200,
+      "time_zone": "Madrid",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2780,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Oct 18 07:48:11 +0000 2017",
+        "id": 920557103739277300,
+        "id_str": "920557103739277312",
+        "text": "De 3 centros que acogían a unos 600 alumnos a 70 centros, que hoy forman a más de 50.000 estudiantes  https://t.co/IYRaTalZMy",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/IYRaTalZMy",
+              "expanded_url": "http://www.elmundo.es/f5/campus/2017/10/18/59e643dde2704ec9438b45fa.html",
+              "display_url": "elmundo.es/f5/campus/2017…",
+              "indices": [
+                102,
+                125
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/698211432693891074/xzp3Pq33_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/698211432693891074/xzp3Pq33_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/28821072/1455106817",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 72976647,
+      "id_str": "72976647",
+      "name": "Alfonso Pierantonio",
+      "screen_name": "APierantonio",
+      "location": "Italy",
+      "description": "Professional skier, amateur researcher on software modeling  and model-driven related matters",
+      "url": "https://t.co/x42ooQfpIF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/x42ooQfpIF",
+              "expanded_url": "http://www.di.univaq.it/alfonso",
+              "display_url": "di.univaq.it/alfonso",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 480,
+      "friends_count": 195,
+      "listed_count": 26,
+      "created_at": "Wed Sep 09 23:03:30 +0000 2009",
+      "favourites_count": 198,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1920,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Sep 30 13:17:33 +0000 2017",
+        "id": 914117011256594400,
+        "id_str": "914117011256594432",
+        "text": "RT @softmodeling: A Large-Scale Study of Programming Languages and Code Quality in GitHub https://t.co/MCvLG1PLuJ",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "softmodeling",
+              "name": "Jordi Cabot",
+              "id": 30841465,
+              "id_str": "30841465",
+              "indices": [
+                3,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/MCvLG1PLuJ",
+              "expanded_url": "https://buff.ly/2fVVVM7",
+              "display_url": "buff.ly/2fVVVM7",
+              "indices": [
+                90,
+                113
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sat Sep 30 10:08:03 +0000 2017",
+          "id": 914069323160973300,
+          "id_str": "914069323160973312",
+          "text": "A Large-Scale Study of Programming Languages and Code Quality in GitHub https://t.co/MCvLG1PLuJ",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/MCvLG1PLuJ",
+                "expanded_url": "https://buff.ly/2fVVVM7",
+                "display_url": "buff.ly/2fVVVM7",
+                "indices": [
+                  72,
+                  95
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 10,
+          "favorite_count": 13,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/717029924968730629/FTqXSkgG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/717029924968730629/FTqXSkgG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/72976647/1459788231",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 114405105,
+      "id_str": "114405105",
+      "name": "Javier Canovas",
+      "screen_name": "jlcanovas",
+      "location": "",
+      "description": "Postdoctoral fellow at IN3 UOC",
+      "url": "http://t.co/EB6dBMb4mQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/EB6dBMb4mQ",
+              "expanded_url": "http://jlcanovas.es",
+              "display_url": "jlcanovas.es",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 180,
+      "friends_count": 213,
+      "listed_count": 13,
+      "created_at": "Mon Feb 15 08:53:15 +0000 2010",
+      "favourites_count": 121,
+      "utc_offset": 7200,
+      "time_zone": "Madrid",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 613,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Oct 18 08:39:33 +0000 2017",
+        "id": 920570031456604200,
+        "id_str": "920570031456604161",
+        "text": "Octoverse 2017 (https://t.co/XUyq9a2KNq) &lt;- 24 million uses, 48% of them identify themselves as students, only 28%… https://t.co/joKYQkEtBb",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/XUyq9a2KNq",
+              "expanded_url": "https://octoverse.github.com/",
+              "display_url": "octoverse.github.com",
+              "indices": [
+                16,
+                39
+              ]
+            },
+            {
+              "url": "https://t.co/joKYQkEtBb",
+              "expanded_url": "https://twitter.com/i/web/status/920570031456604161",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                119,
+                142
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1001645691/yocedicuadrado_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001645691/yocedicuadrado_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/114405105/1398343525",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 203530812,
+      "id_str": "203530812",
+      "name": "Neil Walkinshaw",
+      "screen_name": "neilwalkinshaw",
+      "location": "Sheffield / Leicester",
+      "description": "Associate Professor at @UoLInformatics.",
+      "url": "https://t.co/IOuVdgtqVv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IOuVdgtqVv",
+              "expanded_url": "http://www2.le.ac.uk/departments/computer-science/people/neil-walkinshaw",
+              "display_url": "www2.le.ac.uk/departments/co…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 249,
+      "friends_count": 264,
+      "listed_count": 7,
+      "created_at": "Sat Oct 16 13:57:46 +0000 2010",
+      "favourites_count": 607,
+      "utc_offset": 7200,
+      "time_zone": "Amsterdam",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 860,
+      "lang": "en",
+      "status": {
+        "created_at": "Tue Oct 17 11:57:15 +0000 2017",
+        "id": 920257396785721300,
+        "id_str": "920257396785721344",
+        "text": "RT @EdConwaySky: OECD: UK economy would be boosted significantly if Brexit doesn’t happen https://t.co/oBeEa45H5g",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "EdConwaySky",
+              "name": "Ed Conway",
+              "id": 7847192,
+              "id_str": "7847192",
+              "indices": [
+                3,
+                15
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 920248714408677400,
+              "id_str": "920248714408677377",
+              "indices": [
+                90,
+                113
+              ],
+              "media_url": "http://pbs.twimg.com/media/DMVhVH9W0AEoF_s.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DMVhVH9W0AEoF_s.jpg",
+              "url": "https://t.co/oBeEa45H5g",
+              "display_url": "pic.twitter.com/oBeEa45H5g",
+              "expanded_url": "https://twitter.com/EdConwaySky/status/920248728677683200/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1400,
+                  "h": 174,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 85,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 149,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 920248728677683200,
+              "source_status_id_str": "920248728677683200",
+              "source_user_id": 7847192,
+              "source_user_id_str": "7847192"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 920248714408677400,
+              "id_str": "920248714408677377",
+              "indices": [
+                90,
+                113
+              ],
+              "media_url": "http://pbs.twimg.com/media/DMVhVH9W0AEoF_s.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DMVhVH9W0AEoF_s.jpg",
+              "url": "https://t.co/oBeEa45H5g",
+              "display_url": "pic.twitter.com/oBeEa45H5g",
+              "expanded_url": "https://twitter.com/EdConwaySky/status/920248728677683200/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1400,
+                  "h": 174,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 85,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 149,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 920248728677683200,
+              "source_status_id_str": "920248728677683200",
+              "source_user_id": 7847192,
+              "source_user_id_str": "7847192"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Oct 17 11:22:48 +0000 2017",
+          "id": 920248728677683200,
+          "id_str": "920248728677683200",
+          "text": "OECD: UK economy would be boosted significantly if Brexit doesn’t happen https://t.co/oBeEa45H5g",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+              {
+                "id": 920248714408677400,
+                "id_str": "920248714408677377",
+                "indices": [
+                  73,
+                  96
+                ],
+                "media_url": "http://pbs.twimg.com/media/DMVhVH9W0AEoF_s.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DMVhVH9W0AEoF_s.jpg",
+                "url": "https://t.co/oBeEa45H5g",
+                "display_url": "pic.twitter.com/oBeEa45H5g",
+                "expanded_url": "https://twitter.com/EdConwaySky/status/920248728677683200/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 1400,
+                    "h": 174,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 85,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 149,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 920248714408677400,
+                "id_str": "920248714408677377",
+                "indices": [
+                  73,
+                  96
+                ],
+                "media_url": "http://pbs.twimg.com/media/DMVhVH9W0AEoF_s.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DMVhVH9W0AEoF_s.jpg",
+                "url": "https://t.co/oBeEa45H5g",
+                "display_url": "pic.twitter.com/oBeEa45H5g",
+                "expanded_url": "https://twitter.com/EdConwaySky/status/920248728677683200/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 1400,
+                    "h": 174,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 85,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 149,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+          "in_reply_to_status_id": 920248003360903200,
+          "in_reply_to_status_id_str": "920248003360903169",
+          "in_reply_to_user_id": 7847192,
+          "in_reply_to_user_id_str": "7847192",
+          "in_reply_to_screen_name": "EdConwaySky",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 231,
+          "favorite_count": 186,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 231,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1526496543/298809_10150359133940539_700825538_10178420_5137369_n_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1526496543/298809_10150359133940539_700825538_10178420_5137369_n_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/203530812/1471511552",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 14302602,
+      "id_str": "14302602",
+      "name": "Dimitris Kolovos",
+      "screen_name": "kolovos",
+      "location": "York, UK",
+      "description": "Software Engineer. Eclipse committer. Reader at University of York. Foe of fish, spinning doors, and semantics.",
+      "url": "http://t.co/HmtJg23oAM",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/HmtJg23oAM",
+              "expanded_url": "http://dimitris.io",
+              "display_url": "dimitris.io",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 699,
+      "friends_count": 577,
+      "listed_count": 32,
+      "created_at": "Fri Apr 04 13:38:39 +0000 2008",
+      "favourites_count": 302,
+      "utc_offset": 3600,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1218,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Oct 18 07:44:13 +0000 2017",
+        "id": 920556106186940400,
+        "id_str": "920556106186940416",
+        "text": "Come work with us! Two-year post-doc on model-based engineering of medical devices with Smith &amp; Nephew.… https://t.co/nCMOFGrTOR",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/nCMOFGrTOR",
+              "expanded_url": "https://twitter.com/i/web/status/920556106186940416",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                109,
+                132
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "333333",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/45718971/background1.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/45718971/background1.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/489056443106983936/mIXHojPE_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/489056443106983936/mIXHojPE_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14302602/1441149964",
+      "profile_link_color": "333333",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "E3E3E3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 19769253,
+      "id_str": "19769253",
+      "name": "Nervo Verdezoto Dias",
+      "screen_name": "nervoxavier",
+      "location": "Leicester, England",
+      "description": "Assistant Professor/Lecturer in HCI at @UoLInformatics UK. Previous: Postdoctoral Researcher at the Ubiquitous Computing and Interaction Group @AarhusUni DK",
+      "url": "https://t.co/QayDZm5Y3T",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/QayDZm5Y3T",
+              "expanded_url": "http://nervoxavier.wordpress.com",
+              "display_url": "nervoxavier.wordpress.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": true,
+      "followers_count": 476,
+      "friends_count": 1915,
+      "listed_count": 10,
+      "created_at": "Fri Jan 30 14:32:20 +0000 2009",
+      "favourites_count": 1587,
+      "utc_offset": -7200,
+      "time_zone": "Greenland",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3143,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Oct 04 15:53:04 +0000 2017",
+        "id": 915605699471790100,
+        "id_str": "915605699471790080",
+        "text": "RT @igw_hci: Would be great to have good HCI women apply for our faculty Ass Prof position (tenure track) for female researcher  https://t.…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "igw_hci",
+              "name": "IGW - HCI",
+              "id": 3068697400,
+              "id_str": "3068697400",
+              "indices": [
+                3,
+                11
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Oct 03 14:57:58 +0000 2017",
+          "id": 915229445019103200,
+          "id_str": "915229445019103232",
+          "text": "Would be great to have good HCI women apply for our faculty Ass Prof position (tenure track) for female researcher  https://t.co/vjTxifAIX2",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/vjTxifAIX2",
+                "expanded_url": "http://www.informatik.tuwien.ac.at/jobs/AssistantProfessorPositionforafemaleResearcher-2.pdf",
+                "display_url": "informatik.tuwien.ac.at/jobs/Assistant…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 6,
+          "favorite_count": 8,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/613623960484343808/srjW5PnK_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/613623960484343808/srjW5PnK_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19769253/1439374980",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 781151971482955800,
+      "id_str": "781151971482955776",
+      "name": "ICMT 2018",
+      "screen_name": "icmtconf",
+      "location": "Tolouse, France",
+      "description": "11th International Conference on Model Transformation",
+      "url": "https://t.co/sO4XoGciuA",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/sO4XoGciuA",
+              "expanded_url": "http://www.model-transformation.org",
+              "display_url": "model-transformation.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 90,
+      "friends_count": 83,
+      "listed_count": 0,
+      "created_at": "Wed Sep 28 15:21:57 +0000 2016",
+      "favourites_count": 0,
+      "utc_offset": 7200,
+      "time_zone": "Madrid",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Jul 24 10:48:42 +0000 2017",
+        "id": 889437178643832800,
+        "id_str": "889437178643832832",
+        "text": "RT @staf2017conf: We hope you had a good experience at #STAF17 and a safe trip home! 2 keynote videos and 1 slidedeck are up at https://t.c…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "STAF17",
+              "indices": [
+                55,
+                62
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "staf2017conf",
+              "name": "STAF 2017 Conference",
+              "id": 781118953078882300,
+              "id_str": "781118953078882304",
+              "indices": [
+                3,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sat Jul 22 06:32:03 +0000 2017",
+          "id": 888647811792867300,
+          "id_str": "888647811792867328",
+          "text": "We hope you had a good experience at #STAF17 and a safe trip home! 2 keynote videos and 1 slidedeck are up at https://t.co/003LLpU6aL",
+          "truncated": false,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "STAF17",
+                "indices": [
+                  37,
+                  44
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/003LLpU6aL",
+                "expanded_url": "http://www.informatik.uni-marburg.de/staf2017/index.php/keynotes/",
+                "display_url": "informatik.uni-marburg.de/staf2017/index…",
+                "indices": [
+                  110,
+                  133
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 4,
+          "favorite_count": 5,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/781167405221474304/vl8DOsMo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/781167405221474304/vl8DOsMo_normal.jpg",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    }
+  ],
+  "next_cursor": 1548613794757587500,
+  "next_cursor_str": "1548613794757587557",
+  "previous_cursor": 0,
+  "previous_cursor_str": "0"
+}

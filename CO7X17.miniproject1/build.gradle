@@ -1,0 +1,91 @@
+buildscript {
+    ext {
+        springBootVersion = '1.5.7.RELEASE'
+    }
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}") 
+		classpath("org.springframework:springloaded:1.2.7.RELEASE")
+    }
+}
+
+apply plugin: 'groovy'
+apply plugin: 'eclipse'
+apply plugin: 'org.springframework.boot'
+
+
+repositories {
+	mavenCentral()
+}
+
+
+eclipse {
+	project {
+	  buildCommand 'org.eclipse.jdt.core.javabuilder'
+	  buildCommand 'org.eclipse.buildship.core.gradleprojectbuilder'
+	  buildCommand 'org.springframework.ide.eclipse.core.springbuilder'
+	  buildCommand 'org.eclipse.wst.common.project.facet.core.builder'
+	  natures 'org.eclipse.jdt.core.javanature',
+	    'org.eclipse.jdt.groovy.core.groovyNature',
+	  	'org.eclipse.buildship.core.gradleprojectnature', 
+		'org.springframework.ide.eclipse.core.springnature', 
+		'org.eclipse.wst.common.project.facet.core.nature'
+	}
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+
+task wrapper(type: Wrapper) {
+	gradleVersion = '4.2'
+}
+
+
+// tag::versions[]
+ext {
+	jasperVersion = '9.0.0.M26'
+	groovyVersion = '2.4.12'
+}
+// end::versions[]
+
+dependencies {
+	// Spring Boot
+	compile("org.springframework.boot:spring-boot-starter-web:${springBootVersion}")
+	compile("org.springframework.boot:spring-boot-devtools")
+	// JSP
+	compile("org.apache.tomcat.embed:tomcat-embed-jasper:$jasperVersion")
+	compile("javax.servlet:jstl:1.2")
+	// Bootstrap
+	compile("org.webjars:bootstrap:3.3.7")
+	// Groovy
+	compile("org.codehaus.groovy:groovy-all:$groovyVersion")
+	// MongoDB
+	compile("com.gmongo:gmongo:1.5")
+
+	testCompile("org.springframework.boot:spring-boot-starter-test")
+}
+
+
+///////////////////////////////////////////////////////////////////////////////
+// PROJECT SPECIFIC
+///////////////////////////////////////////////////////////////////////////////
+
+springBoot {
+	mainClass = "miniproject1.Application"
+}
+
+task migrateToMongoDb (dependsOn: 'classes', type: JavaExec) {
+	main = "miniproject1.mongoDb.BulkTransfer"
+	classpath = sourceSets.main.runtimeClasspath
+}
+
+// name of the jar to be generated
+jar.baseName = 'CO7X17.miniproject1'
+jar.version = ''
+
+// name of the Eclipse project
+eclipse.project.name = 'CO7X17.miniproject1'
+

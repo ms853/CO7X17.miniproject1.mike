@@ -1,0 +1,1589 @@
+{
+  "users": [
+    {
+      "id": 368528156,
+      "id_str": "368528156",
+      "name": "Ezequiel Martín",
+      "screen_name": "Mencial",
+      "location": "London, UK",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 48,
+      "friends_count": 134,
+      "listed_count": 0,
+      "created_at": "Mon Sep 05 19:49:54 +0000 2011",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6,
+      "lang": "en",
+      "status": {
+        "created_at": "Tue Jun 13 10:31:28 +0000 2017",
+        "id": 874574935641010200,
+        "id_str": "874574935641010176",
+        "text": "6/13/17 8:45 AM... #Running 6.7 km in 00:27:43 https://t.co/JADFPymFXo tracked with #sportstracker",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Running",
+              "indices": [
+                19,
+                27
+              ]
+            },
+            {
+              "text": "sportstracker",
+              "indices": [
+                84,
+                98
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/JADFPymFXo",
+              "expanded_url": "http://www.sports-tracker.com/workout/mencial/3bmt6mfscduar60l",
+              "display_url": "sports-tracker.com/workout/mencia…",
+              "indices": [
+                47,
+                70
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.sports-tracker.com\" rel=\"nofollow\">Sports Tracker</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1530253846/xkcd_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1530253846/xkcd_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 168499439,
+      "id_str": "168499439",
+      "name": "Obeo",
+      "screen_name": "Obeo_Corp",
+      "location": "France",
+      "description": "Provides open modeling solutions to create and transform complex systems. #OpenSource #EclipseSirius #EntArch #SystemsEngineering #Software",
+      "url": "https://t.co/5cySHD8ZaL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/5cySHD8ZaL",
+              "expanded_url": "http://www.obeo.fr",
+              "display_url": "obeo.fr",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 534,
+      "friends_count": 270,
+      "listed_count": 60,
+      "created_at": "Mon Jul 19 14:11:52 +0000 2010",
+      "favourites_count": 141,
+      "utc_offset": 7200,
+      "time_zone": "Paris",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2258,
+      "lang": "fr",
+      "status": {
+        "created_at": "Wed Oct 18 13:35:07 +0000 2017",
+        "id": 920644415143796700,
+        "id_str": "920644415143796738",
+        "text": "Only few days before #EclipseCon Europe! #Obeo will be there, and you? Find out our talks and meet us booth #4… https://t.co/ks18iegeXD",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "EclipseCon",
+              "indices": [
+                21,
+                32
+              ]
+            },
+            {
+              "text": "Obeo",
+              "indices": [
+                41,
+                46
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/ks18iegeXD",
+              "expanded_url": "https://twitter.com/i/web/status/920644415143796738",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                112,
+                135
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/692300597614264320/VXpPe2nn_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/692300597614264320/VXpPe2nn_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/168499439/1489424458",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 2707245008,
+      "id_str": "2707245008",
+      "name": "PapyrusUML",
+      "screen_name": "PapyrusUML",
+      "location": "",
+      "description": "Eclipse-based, Open Source modeling tool. My opinions may not be those of any or all of my creators...or those of the Eclipse Foundation!",
+      "url": "http://t.co/rVRGrfBybj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/rVRGrfBybj",
+              "expanded_url": "http://www.eclipse.org/papyrus/",
+              "display_url": "eclipse.org/papyrus/",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 205,
+      "friends_count": 75,
+      "listed_count": 7,
+      "created_at": "Mon Aug 04 19:13:50 +0000 2014",
+      "favourites_count": 215,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 324,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Oct 12 21:14:36 +0000 2017",
+        "id": 918585718968082400,
+        "id_str": "918585718968082432",
+        "text": "There is some on the Papyrus-RT web site and some in the wiki and some presentations in SlideShare and YouTube. https://t.co/jL50PJUsJh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/jL50PJUsJh",
+              "expanded_url": "https://twitter.com/antoniogado/status/918248943775109121",
+              "display_url": "twitter.com/antoniogado/st…",
+              "indices": [
+                112,
+                135
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 918248943775109100,
+        "quoted_status_id_str": "918248943775109121",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/496380084454817792/2wGWd7EB_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/496380084454817792/2wGWd7EB_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 905975738,
+      "id_str": "905975738",
+      "name": "CROSSMINER Project",
+      "screen_name": "crossminer",
+      "location": "Europe",
+      "description": "Developer-Centric Knowledge Mining from Large Open-Source Software Repositories",
+      "url": "https://t.co/CHHL2zqqiw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/CHHL2zqqiw",
+              "expanded_url": "http://www.crossminer.org",
+              "display_url": "crossminer.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 402,
+      "friends_count": 917,
+      "listed_count": 25,
+      "created_at": "Fri Oct 26 13:13:57 +0000 2012",
+      "favourites_count": 337,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 224,
+      "lang": "en",
+      "status": {
+        "created_at": "Tue Oct 17 15:14:19 +0000 2017",
+        "id": 920306991561658400,
+        "id_str": "920306991561658372",
+        "text": "RT @alebagnato: @crossminer will be presented @\n@OSS_Paris #Floss - #Collaborative #Innovation   https://t.co/Arp7StVttf See you in #Paris…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Floss",
+              "indices": [
+                59,
+                65
+              ]
+            },
+            {
+              "text": "Collaborative",
+              "indices": [
+                68,
+                82
+              ]
+            },
+            {
+              "text": "Innovation",
+              "indices": [
+                83,
+                94
+              ]
+            },
+            {
+              "text": "Paris",
+              "indices": [
+                132,
+                138
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "alebagnato",
+              "name": "Alessandra Bagnato",
+              "id": 69559777,
+              "id_str": "69559777",
+              "indices": [
+                3,
+                14
+              ]
+            },
+            {
+              "screen_name": "crossminer",
+              "name": "CROSSMINER Project",
+              "id": 905975738,
+              "id_str": "905975738",
+              "indices": [
+                16,
+                27
+              ]
+            },
+            {
+              "screen_name": "OSS_Paris",
+              "name": "Open Source Summit",
+              "id": 34923649,
+              "id_str": "34923649",
+              "indices": [
+                48,
+                58
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Arp7StVttf",
+              "expanded_url": "http://www.opensourcesummit.paris/preinscription-conferences.html?orderby=time&step=0&lg=en",
+              "display_url": "opensourcesummit.paris/preinscription…",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Oct 17 15:13:08 +0000 2017",
+          "id": 920306692499394600,
+          "id_str": "920306692499394565",
+          "text": "@crossminer will be presented @\n@OSS_Paris #Floss - #Collaborative #Innovation   https://t.co/Arp7StVttf See you in… https://t.co/OUmgM5mBKz",
+          "truncated": true,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "Floss",
+                "indices": [
+                  43,
+                  49
+                ]
+              },
+              {
+                "text": "Collaborative",
+                "indices": [
+                  52,
+                  66
+                ]
+              },
+              {
+                "text": "Innovation",
+                "indices": [
+                  67,
+                  78
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "crossminer",
+                "name": "CROSSMINER Project",
+                "id": 905975738,
+                "id_str": "905975738",
+                "indices": [
+                  0,
+                  11
+                ]
+              },
+              {
+                "screen_name": "OSS_Paris",
+                "name": "Open Source Summit",
+                "id": 34923649,
+                "id_str": "34923649",
+                "indices": [
+                  32,
+                  42
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/Arp7StVttf",
+                "expanded_url": "http://www.opensourcesummit.paris/preinscription-conferences.html?orderby=time&step=0&lg=en",
+                "display_url": "opensourcesummit.paris/preinscription…",
+                "indices": [
+                  81,
+                  104
+                ]
+              },
+              {
+                "url": "https://t.co/OUmgM5mBKz",
+                "expanded_url": "https://twitter.com/i/web/status/920306692499394565",
+                "display_url": "twitter.com/i/web/status/9…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": 905975738,
+          "in_reply_to_user_id_str": "905975738",
+          "in_reply_to_screen_name": "crossminer",
+          "geo": null,
+          "coordinates": null,
+          "place": {
+            "id": "4f10b7d6e70ee702",
+            "url": "https://api.twitter.com/1.1/geo/id/4f10b7d6e70ee702.json",
+            "place_type": "city",
+            "name": "Guyancourt",
+            "full_name": "Guyancourt, France",
+            "country_code": "FR",
+            "country": "France",
+            "contained_within": [],
+            "bounding_box": {
+              "type": "Polygon",
+              "coordinates": [
+                [
+                  [
+                    2.0432795,
+                    48.7525416
+                  ],
+                  [
+                    2.1057327,
+                    48.7525416
+                  ],
+                  [
+                    2.1057327,
+                    48.7942336
+                  ],
+                  [
+                    2.0432795,
+                    48.7942336
+                  ]
+                ]
+              ]
+            },
+            "attributes": {}
+          },
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 6,
+          "favorite_count": 9,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000099587272/84b4b2a6f52bc768495c65777c36beec.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000099587272/84b4b2a6f52bc768495c65777c36beec.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000635020324/756b41fda74e8b6bb178ff8decabd499_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000635020324/756b41fda74e8b6bb178ff8decabd499_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 110420616,
+      "id_str": "110420616",
+      "name": "Marco Brambilla",
+      "screen_name": "MarcoBrambi",
+      "location": "Como, Lombardia",
+      "description": "Professor at @polimi, entrepreneur at @fluxedo_ & @webratioinc. Inventor of https://t.co/OXxktkzh9V. On data science, sw modeling, bigdata & social media",
+      "url": "https://t.co/Q5Ohw2ieAn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Q5Ohw2ieAn",
+              "expanded_url": "http://www.marco-brambilla.com",
+              "display_url": "marco-brambilla.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/OXxktkzh9V",
+              "expanded_url": "http://ifml.org",
+              "display_url": "ifml.org",
+              "indices": [
+                76,
+                99
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 3098,
+      "friends_count": 1906,
+      "listed_count": 841,
+      "created_at": "Mon Feb 01 13:47:58 +0000 2010",
+      "favourites_count": 2943,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 18469,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Oct 18 13:34:04 +0000 2017",
+        "id": 920644148398559200,
+        "id_str": "920644148398559238",
+        "text": "News on #BPM #EA and #Modeling https://t.co/ulNR2Xk5pt Stories by @marcobrambi @arslan0644 @BernHyland @lorenzodamelio #bigdata #rt",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "BPM",
+              "indices": [
+                8,
+                12
+              ]
+            },
+            {
+              "text": "EA",
+              "indices": [
+                13,
+                16
+              ]
+            },
+            {
+              "text": "Modeling",
+              "indices": [
+                21,
+                30
+              ]
+            },
+            {
+              "text": "bigdata",
+              "indices": [
+                119,
+                127
+              ]
+            },
+            {
+              "text": "rt",
+              "indices": [
+                128,
+                131
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "MarcoBrambi",
+              "name": "Marco Brambilla",
+              "id": 110420616,
+              "id_str": "110420616",
+              "indices": [
+                66,
+                78
+              ]
+            },
+            {
+              "screen_name": "arslan0644",
+              "name": "Arslan Ali",
+              "id": 504334736,
+              "id_str": "504334736",
+              "indices": [
+                79,
+                90
+              ]
+            },
+            {
+              "screen_name": "BernHyland",
+              "name": "Bernadette Hyland",
+              "id": 26279045,
+              "id_str": "26279045",
+              "indices": [
+                91,
+                102
+              ]
+            },
+            {
+              "screen_name": "lorenzodamelio",
+              "name": "Lorenzo D'Amelio",
+              "id": 24926778,
+              "id_str": "24926778",
+              "indices": [
+                103,
+                118
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ulNR2Xk5pt",
+              "expanded_url": "https://paper.li/MarcoBrambi/bpm?edition_id=0137a9e0-b409-11e7-8bb0-0cc47a0d1609",
+              "display_url": "paper.li/MarcoBrambi/bp…",
+              "indices": [
+                31,
+                54
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF9C5E",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/463254955189485569/wdT55j3C.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/463254955189485569/wdT55j3C.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/794287227929063424/m6mAsPm7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/794287227929063424/m6mAsPm7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/110420616/1491578648",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D90033",
+      "profile_text_color": "FF370F",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 340212738,
+      "id_str": "340212738",
+      "name": "Fast Track Impact",
+      "screen_name": "fasttrackimpact",
+      "location": "UK",
+      "description": "Fast track your research impact. Improve your productivity. Tips & training for researchers by researchers. Tweets by @profmarkreed",
+      "url": "https://t.co/Lp7BvhhhdV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Lp7BvhhhdV",
+              "expanded_url": "http://www.fasttrackimpact.com",
+              "display_url": "fasttrackimpact.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 42330,
+      "friends_count": 44083,
+      "listed_count": 412,
+      "created_at": "Fri Jul 22 09:50:17 +0000 2011",
+      "favourites_count": 1992,
+      "utc_offset": 3600,
+      "time_zone": "London",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3669,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Oct 18 07:54:46 +0000 2017",
+        "id": 920558759252021200,
+        "id_str": "920558759252021248",
+        "text": "RT @fasttrackimpact: See the reviews, read the @timeshighered article and watch @profmarkreed present highlights from The Productive Resear…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "fasttrackimpact",
+              "name": "Fast Track Impact",
+              "id": 340212738,
+              "id_str": "340212738",
+              "indices": [
+                3,
+                19
+              ]
+            },
+            {
+              "screen_name": "timeshighered",
+              "name": "TimesHigherEducation",
+              "id": 23602600,
+              "id_str": "23602600",
+              "indices": [
+                47,
+                61
+              ]
+            },
+            {
+              "screen_name": "profmarkreed",
+              "name": "Mark Reed",
+              "id": 19347472,
+              "id_str": "19347472",
+              "indices": [
+                80,
+                93
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Oct 13 09:40:02 +0000 2017",
+          "id": 918773311907262500,
+          "id_str": "918773311907262465",
+          "text": "See the reviews, read the @timeshighered article and watch @profmarkreed present highlights from The Productive Res… https://t.co/NxxEhK595Z",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "timeshighered",
+                "name": "TimesHigherEducation",
+                "id": 23602600,
+                "id_str": "23602600",
+                "indices": [
+                  26,
+                  40
+                ]
+              },
+              {
+                "screen_name": "profmarkreed",
+                "name": "Mark Reed",
+                "id": 19347472,
+                "id_str": "19347472",
+                "indices": [
+                  59,
+                  72
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/NxxEhK595Z",
+                "expanded_url": "https://twitter.com/i/web/status/918773311907262465",
+                "display_url": "twitter.com/i/web/status/9…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 14,
+          "favorite_count": 21,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/700739410/1d0ddfba8a3a2f2c92354b7c04705c50.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/700739410/1d0ddfba8a3a2f2c92354b7c04705c50.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/662010516869640192/MeJWmaN5_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/662010516869640192/MeJWmaN5_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/340212738/1479070222",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "4D4A33",
+      "profile_sidebar_fill_color": "262626",
+      "profile_text_color": "696545",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 82647786,
+      "id_str": "82647786",
+      "name": "SLE Conference",
+      "screen_name": "sleconf",
+      "location": "",
+      "description": "International Conference on Software Language Engineering",
+      "url": "https://t.co/MHndAyHCHw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/MHndAyHCHw",
+              "expanded_url": "http://www.sleconf.org/2016",
+              "display_url": "sleconf.org/2016",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 529,
+      "friends_count": 126,
+      "listed_count": 34,
+      "created_at": "Thu Oct 15 15:56:08 +0000 2009",
+      "favourites_count": 11,
+      "utc_offset": 7200,
+      "time_zone": "Bern",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 356,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Sep 22 04:12:36 +0000 2017",
+        "id": 911080765932298200,
+        "id_str": "911080765932298240",
+        "text": "RT @bcombemale: SLE’17 program is now online: https://t.co/KLnTdZkPTX cc @sleconf",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "bcombemale",
+              "name": "Benoit Combemale",
+              "id": 2489681164,
+              "id_str": "2489681164",
+              "indices": [
+                3,
+                14
+              ]
+            },
+            {
+              "screen_name": "sleconf",
+              "name": "SLE Conference",
+              "id": 82647786,
+              "id_str": "82647786",
+              "indices": [
+                73,
+                81
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/KLnTdZkPTX",
+              "expanded_url": "https://conf.researchr.org/track/sle-2017/sle-2017-papers#program",
+              "display_url": "conf.researchr.org/track/sle-2017…",
+              "indices": [
+                46,
+                69
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Wed Sep 20 14:39:05 +0000 2017",
+          "id": 910513648824574000,
+          "id_str": "910513648824573952",
+          "text": "SLE’17 program is now online: https://t.co/KLnTdZkPTX cc @sleconf",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "sleconf",
+                "name": "SLE Conference",
+                "id": 82647786,
+                "id_str": "82647786",
+                "indices": [
+                  57,
+                  65
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/KLnTdZkPTX",
+                "expanded_url": "https://conf.researchr.org/track/sle-2017/sle-2017-papers#program",
+                "display_url": "conf.researchr.org/track/sle-2017…",
+                "indices": [
+                  30,
+                  53
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 8,
+          "favorite_count": 7,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "40030F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/831625490356121600/RQtkICRu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/831625490356121600/RQtkICRu_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "6046CC",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 19769253,
+      "id_str": "19769253",
+      "name": "Nervo Verdezoto Dias",
+      "screen_name": "nervoxavier",
+      "location": "Leicester, England",
+      "description": "Assistant Professor/Lecturer in HCI at @UoLInformatics UK. Previous: Postdoctoral Researcher at the Ubiquitous Computing and Interaction Group @AarhusUni DK",
+      "url": "https://t.co/QayDZm5Y3T",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/QayDZm5Y3T",
+              "expanded_url": "http://nervoxavier.wordpress.com",
+              "display_url": "nervoxavier.wordpress.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": true,
+      "followers_count": 476,
+      "friends_count": 1915,
+      "listed_count": 10,
+      "created_at": "Fri Jan 30 14:32:20 +0000 2009",
+      "favourites_count": 1587,
+      "utc_offset": -7200,
+      "time_zone": "Greenland",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3143,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Oct 04 15:53:04 +0000 2017",
+        "id": 915605699471790100,
+        "id_str": "915605699471790080",
+        "text": "RT @igw_hci: Would be great to have good HCI women apply for our faculty Ass Prof position (tenure track) for female researcher  https://t.…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "igw_hci",
+              "name": "IGW - HCI",
+              "id": 3068697400,
+              "id_str": "3068697400",
+              "indices": [
+                3,
+                11
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Oct 03 14:57:58 +0000 2017",
+          "id": 915229445019103200,
+          "id_str": "915229445019103232",
+          "text": "Would be great to have good HCI women apply for our faculty Ass Prof position (tenure track) for female researcher  https://t.co/vjTxifAIX2",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/vjTxifAIX2",
+                "expanded_url": "http://www.informatik.tuwien.ac.at/jobs/AssistantProfessorPositionforafemaleResearcher-2.pdf",
+                "display_url": "informatik.tuwien.ac.at/jobs/Assistant…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 6,
+          "favorite_count": 8,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/613623960484343808/srjW5PnK_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/613623960484343808/srjW5PnK_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19769253/1439374980",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 72976647,
+      "id_str": "72976647",
+      "name": "Alfonso Pierantonio",
+      "screen_name": "APierantonio",
+      "location": "Italy",
+      "description": "Professional skier, amateur researcher on software modeling  and model-driven related matters",
+      "url": "https://t.co/x42ooQfpIF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/x42ooQfpIF",
+              "expanded_url": "http://www.di.univaq.it/alfonso",
+              "display_url": "di.univaq.it/alfonso",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 480,
+      "friends_count": 195,
+      "listed_count": 26,
+      "created_at": "Wed Sep 09 23:03:30 +0000 2009",
+      "favourites_count": 198,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1920,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Sep 30 13:17:33 +0000 2017",
+        "id": 914117011256594400,
+        "id_str": "914117011256594432",
+        "text": "RT @softmodeling: A Large-Scale Study of Programming Languages and Code Quality in GitHub https://t.co/MCvLG1PLuJ",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "softmodeling",
+              "name": "Jordi Cabot",
+              "id": 30841465,
+              "id_str": "30841465",
+              "indices": [
+                3,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/MCvLG1PLuJ",
+              "expanded_url": "https://buff.ly/2fVVVM7",
+              "display_url": "buff.ly/2fVVVM7",
+              "indices": [
+                90,
+                113
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sat Sep 30 10:08:03 +0000 2017",
+          "id": 914069323160973300,
+          "id_str": "914069323160973312",
+          "text": "A Large-Scale Study of Programming Languages and Code Quality in GitHub https://t.co/MCvLG1PLuJ",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/MCvLG1PLuJ",
+                "expanded_url": "https://buff.ly/2fVVVM7",
+                "display_url": "buff.ly/2fVVVM7",
+                "indices": [
+                  72,
+                  95
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 10,
+          "favorite_count": 13,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/717029924968730629/FTqXSkgG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/717029924968730629/FTqXSkgG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/72976647/1459788231",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 37587198,
+      "id_str": "37587198",
+      "name": "Jean Bezivin",
+      "screen_name": "JBezivin",
+      "location": "Rennes",
+      "description": "Emeritus Professor of Computer Science @ University of Nantes.  Now observing the world from Cesson-Sévigné, Brittany.",
+      "url": "http://t.co/ugQw335fqG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ugQw335fqG",
+              "expanded_url": "http://about.me/jeanbezivin",
+              "display_url": "about.me/jeanbezivin",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3703,
+      "friends_count": 3520,
+      "listed_count": 320,
+      "created_at": "Mon May 04 03:45:11 +0000 2009",
+      "favourites_count": 8368,
+      "utc_offset": 7200,
+      "time_zone": "Paris",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 25671,
+      "lang": "en",
+      "status": {
+        "created_at": "Sun Oct 15 19:28:42 +0000 2017",
+        "id": 919646232968081400,
+        "id_str": "919646232968081408",
+        "text": "@mistermojette Exact ! L'arithmétique n'est qu'un modèle partiel de la réalité, probablement pas le plus important !",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mistermojette",
+              "name": "Jeanpierre GUEDON",
+              "id": 1271797249,
+              "id_str": "1271797249",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 919586684806881300,
+        "in_reply_to_status_id_str": "919586684806881281",
+        "in_reply_to_user_id": 1271797249,
+        "in_reply_to_user_id_str": "1271797249",
+        "in_reply_to_screen_name": "mistermojette",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fr"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/358199452/twilk_background_4eb404c47bba3.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/358199452/twilk_background_4eb404c47bba3.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/465658485833609217/ERWFliuc_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/465658485833609217/ERWFliuc_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/37587198/1400671379",
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    }
+  ],
+  "next_cursor": 1573519317153123600,
+  "next_cursor_str": "1573519317153123645",
+  "previous_cursor": 0,
+  "previous_cursor_str": "0"
+}
